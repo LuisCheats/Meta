@@ -1,4 +1,4 @@
-## <div align='center'>@7Noonly-Xz/Delta - API de WhatsApp Web</div>
+## <div align='center'>Delta - API de WhatsApp Web</div>
 
 <p align="center">
   <a href="https://github.com/LuisCheats">
