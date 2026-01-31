@@ -5,7 +5,7 @@
   <a href="https://github.com/LuisCheats">
     <img src="https://github.com/LuisCheats.png" width="130" height="130" alt="7Noonly †"/>
     <br>
-    <strong>Arlette-Xz</strong>
+    <strong>7Noonly</strong>
   </a>
 </p>
 
